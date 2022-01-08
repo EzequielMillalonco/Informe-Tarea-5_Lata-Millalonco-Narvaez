@@ -15,14 +15,72 @@
 
 ### CAPÍTULO 9:
 
+	9–1 Ecuaciones simultáneas en el análisis de circuitos 
+	
+
+	9–2 Método de la corriente en ramas 
+	
+
+	9–3 Método de la corriente en trayectorias cerradas 
+	
+	
+
+	9–4 Método del voltaje en nodos 
+
+
 ### CAPÍTULO 10:
+
+	10–1 El campo magnético 
+	
+	
+	10–2 Electromagnetismo 
+	
+	
+	10–3 Dispositivos electromagnéticos 
+	
+	
+	10–4 Histéresis magnética 
+	
+	
+	10–5 Inducción electromagnética 
+	
+	
+	10–6 Aplicaciones de la inducción electromagnética 
+
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
 ### CAPÍTULO 9:
 
+	9–1 Ecuaciones simultáneas en el análisis de circuitos 
+	
+
+	9–2 Método de la corriente en ramas 
+	
+
+	9–3 Método de la corriente en trayectorias cerradas 
+	
+	
+	9–4 Método del voltaje en nodos 
 	
 ### CAPÍTULO 10:
+
+	10–1 El campo magnético 
+	
+	
+	10–2 Electromagnetismo 
+	
+	
+	10–3 Dispositivos electromagnéticos 
+	
+	
+	10–4 Histéresis magnética 
+	
+	
+	10–5 Inducción electromagnética 
+	
+	
+	10–6 Aplicaciones de la inducción electromagnética 
 
 
 
