@@ -2,14 +2,16 @@
 ## 1.	OBJETIVOS
 
 	1.1	GENERAL: 
-
+	
+Comprender el uso de ecuaciones simultáneas en el análisis decircuitos y los principios de un campo magnético
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
-**b.**	
+**a.**	Analizar 3 métodos para análisis de circuitos electricos.
 
-**c.**	
+**b.**	Describir los principios del electromagnetismo y de operación de varios tipos de dispositivos electromagnéticos.
+
+**c.**	Utilizar diversos métodos de análisis para determinar cantidades desconocidas en un circuito.
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
