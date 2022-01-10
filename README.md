@@ -15,7 +15,17 @@
 
 ### CAPÍTULO 9:
 
+![Blank diagram (5)](https://user-images.githubusercontent.com/93826527/148842284-4b6d9097-5353-4553-af80-7c2892ecdfab.png)
+	
+	
 	9–1 Ecuaciones simultáneas en el análisis de circuitos 
+	
+	![Blank diagram (6)](https://user-images.githubusercontent.com/93826527/148842968-927590fe-97ae-4804-8d16-13495fe838ec.png)
+	
+	![Screenshot 2022-01-10 163030](https://user-images.githubusercontent.com/93826527/148842452-d7a925f2-ee90-4dd4-b7a9-9922cfcc00eb.png)
+
+	![Screenshot 2022-01-10 163102](https://user-images.githubusercontent.com/93826527/148842509-cf1d1866-5811-4e39-b77d-8d69cf530c74.png)
+
 	
 
 	9–2 Método de la corriente en ramas 
