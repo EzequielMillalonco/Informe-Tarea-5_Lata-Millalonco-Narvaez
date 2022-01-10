@@ -2,16 +2,14 @@
 ## 1.	OBJETIVOS
 
 	1.1	GENERAL: 
-	
-Comprender el uso de ecuaciones simultáneas en el análisis decircuitos y los principios de un campo magnético
+
 
 	1.2	ESPECÍFICOS:
 
-**a.**	Analizar 3 métodos para análisis de circuitos electricos.
+**a.**	
+**b.**	
 
-**b.**	Describir los principios del electromagnetismo y de operación de varios tipos de dispositivos electromagnéticos.
-
-**c.**	Utilizar diversos métodos de análisis para determinar cantidades desconocidas en un circuito.
+**c.**	
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
@@ -32,12 +30,28 @@ Comprender el uso de ecuaciones simultáneas en el análisis decircuitos y los p
 
 	9–2 Método de la corriente en ramas 
 	
+![Blank diagram (7)](https://user-images.githubusercontent.com/93826527/148843386-1aac26fb-55cd-4fd9-9cd7-76bc69c7cfd9.png)
 
-	9–3 Método de la corriente en trayectorias cerradas 
+![Screenshot 2022-01-10 163903](https://user-images.githubusercontent.com/93826527/148843459-e5f9bb73-4fe9-42aa-a7db-6bf45186f4fb.png)
+
+![Screenshot 2022-01-10 163939](https://user-images.githubusercontent.com/93826527/148843537-ba669f2a-cdf2-4b10-beb7-7b6d2e8af0c1.png)
+
+
+
+	9–3 Método de la corriente en lazo (trayectorias cerradas)
 	
-	
+![Blank diagram (8)](https://user-images.githubusercontent.com/93826527/148844042-4e4096b1-a34f-4eae-a636-913abd0c0655.png)
+
+![Screenshot 2022-01-10 164503](https://user-images.githubusercontent.com/93826527/148844128-642e35e9-f633-44c7-a8a0-c6b732c412df.png)
+
+
+
 
 	9–4 Método del voltaje en nodos 
+	
+![Blank diagram (9)](https://user-images.githubusercontent.com/93826527/148844536-4ab29caa-3f2f-400b-ac70-45097100dc5b.png)
+
+![Screenshot 2022-01-10 164859](https://user-images.githubusercontent.com/93826527/148844612-2d848cd0-9d45-452f-a098-40527f1cd18c.png)
 
 
 ### CAPÍTULO 10:
