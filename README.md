@@ -101,7 +101,7 @@
 	
 **10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
 
-	El solenoide es energizado por una corriente que recorre la bobina, la cual establece un campo electromagnético que magnetiza ambos núcleos de hierro. El polo sur del 		núcleo estacionario atrae al polo norte del núcleo móvil y causa que se deslice hacia dentro, con lo cual se retrae el émbolo y comprime al resorte. 
+	El solenoide es energizado por una corriente que recorre la bobina, la cual establece un campo electromagnético que magnetiza ambos núcleos de hierro. El polo sur del 	núcleo estacionario atrae al polo norte del núcleo móvil y causa que se deslice hacia dentro, con lo cual se retrae el émbolo y comprime al resorte. 
 
 **11**
 
