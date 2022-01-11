@@ -3,13 +3,15 @@
 
 	1.1	GENERAL: 
 
+Aplicar ecuaciones simultáneas en el análisis de circuitos y explicar los principios de un campo magnético
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
-**b.**	
+**a.** Analizar tres métodos de resolver ecuaciones simultáneas (método de la corriente en ramas, análisis de lazos y análisis de nodos)
 
-**c.**	
+**b.**	Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+
+**c.**	Analizar el principio de inducción electromagnética y algunas aplicaciones de la inducción electromagnética
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
@@ -80,13 +82,77 @@
 
 	9–1 Ecuaciones simultáneas en el análisis de circuitos 
 	
+**1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2**
+
+![image](https://user-images.githubusercontent.com/93396250/148895383-3ec072f9-08eb-4c4d-b6ae-7eb09af86466.png)
+
+
+**3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:**
+
+![image](https://user-images.githubusercontent.com/93396250/148895412-fc1d4b4f-cbc8-41a3-86b5-9a129799dff9.png)
+
+
+**5. Evalúe cada uno de los determinantes:**
+
+![image](https://user-images.githubusercontent.com/93396250/148895430-2b462975-a6be-4d55-8d95-e73c93b150cd.png)
+
+
+**7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:**
+
+![image](https://user-images.githubusercontent.com/93396250/148895483-0f697312-c178-4c98-bdfb-88fccf5938ae.png)
+
+
+**9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.**
+
+![image](https://user-images.githubusercontent.com/93396250/148895510-40c5f575-1c3a-4931-8642-7e8e5fe12062.png)
+
 
 	9–2 Método de la corriente en ramas 
 	
+**11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26**
+
+![image](https://user-images.githubusercontent.com/93396250/148895637-66ca4dd7-3202-491f-a7d3-f65f954b4ca6.png)
+
+
+**13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.**
+
+![image](https://user-images.githubusercontent.com/93396250/148895667-0e86be4b-fccb-4ffb-8b15-9562b664c5d5.png)
+
+
+**15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).**
+
+![image](https://user-images.githubusercontent.com/93396250/148895736-4bd662c3-4296-403e-a260-4058ecc0329c.png)
+
 
 	9–3 Método de la corriente en trayectorias cerradas 
 	
-	
+**17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.**
+
+![image](https://user-images.githubusercontent.com/93396250/148895799-49f91932-d06d-457c-a6ee-4885b01e2b07.png)
+
+
+**19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28**
+
+![image](https://user-images.githubusercontent.com/93396250/148895816-2f881039-73e7-457e-a601-0f4a4985b410.png)
+
+
+**21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.**
+
+![image](https://user-images.githubusercontent.com/93396250/148895881-bcacd8ad-be64-4dd2-b901-b12035bd32ce.png)
+
+
+**23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.**
+
+![image](https://user-images.githubusercontent.com/93396250/148895920-5b7492cd-21a5-427d-a119-4ece4f8dcaf7.png)
+
+![image](https://user-images.githubusercontent.com/93396250/148895938-da4d51f1-9c80-4e31-9566-093413c807dd.png)
+
+
+**25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.**
+
+![image](https://user-images.githubusercontent.com/93396250/148895956-1a06dfac-e462-43de-b4e4-4b59d5394a83.png)
+
+
 	9–4 Método del voltaje en nodos 
 	
 ### CAPÍTULO 10:
