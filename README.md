@@ -140,11 +140,19 @@ La ley de Faraday establece que un campo magnético cambiante induce un voltaje 
 	
 	10–6 Aplicaciones de la inducción electromagnética 
 	
-**22. Explique el propósito del conmutador y de las escobillas en la figura 10-35. **
+**23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.**
 
 ![Screenshot 2022-01-10 203854](https://user-images.githubusercontent.com/93826527/148866271-2984af65-197d-4124-9e16-24f557808e3c.png)
 
 El conmutador roza con las escobillas que estan conectadas a los extremos de la espira de alambre conductor, por lo cual estas dos piezas sirven para conectar la espira a un circuito externo, a fin de inducir un voltaje.
+
+**Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
+
+60 rev/s = 21600 grados/s 
+
+Por ende dividimos los 21600 grados para 180 grados, ya que sabemos que el generador de cd alcanza su voltaje pico (voltaje inducido máximo), cada vez que el conmutador gira 180 grados comenzando desde su posición original, que es en paralelo con las líneas de flujo del campo magnético.
+
+21600 (grados/s)/180 grados = 120 veces/s 
 
 
 ## 4.	VIDEO
