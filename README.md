@@ -99,11 +99,11 @@
 	
 	10–3 Dispositivos electromagnéticos 
 	
-**10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+**11. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
 
 	El solenoide es energizado por una corriente que recorre la bobina, la cual establece un campo electromagnético que magnetiza ambos núcleos de hierro. El polo sur del 	núcleo estacionario atrae al polo norte del núcleo móvil y causa que se deslice hacia dentro, con lo cual se retrae el émbolo y comprime al resorte. 
 
-**11**
+**13**
 
 	**(a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?**
 
@@ -116,12 +116,35 @@
 	
 	10–4 Histéresis magnética 
 	
+**15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?**
+
+Incrementando la fuerza magnetomotriz (Fm), que provoca el incremento en la intensidad de campo magnético (H). Así mismo H es proporciona a la densidad de flujo (B) y de esta manera podemos variar la densidad de flujo, incrementando Fm. En conclusión, para cambiar la densidad de flujo, se debe variar I (corriente a través de la bobina de alambre), ya que Fm= NI, siendo N (el número de vueltas de la bobina de alambre). Esto ya que se pide no alterar físicamente el núcleo.
+
+**17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad**
+
+![Screenshot 2022-01-10 201252](https://user-images.githubusercontent.com/93826527/148863930-09965420-6a10-4abf-b09f-1796fb666db8.png)
+
+El elemento con mayor retentividad es **A**, ya que la diferencia entre Bsat y BR es menor en relación a los demás elementos, lo cual demuestra que luego de ser magnetizado y H volver a un valor de cero, conserva la mayor cantidad de magnetización incluso sin intensidad de campo magnético.
+	
 	
 	10–5 Inducción electromagnética 
 	
+**19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?**
+
+La cantidad de voltaje inducido (vind) depende de la densidad de flujo, B, de la longitud del conductor, l, expuesta al campo magnético, y de la velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro.
+
+**21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?**
+
+La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. La ley de Lenz define la polaridad o dirección del voltaje inducido.
+	
 	
 	10–6 Aplicaciones de la inducción electromagnética 
+	
+**22. Explique el propósito del conmutador y de las escobillas en la figura 10-35. **
 
+![Screenshot 2022-01-10 203854](https://user-images.githubusercontent.com/93826527/148866271-2984af65-197d-4124-9e16-24f557808e3c.png)
+
+El conmutador roza con las escobillas que estan conectadas a los extremos de la espira de alambre conductor, por lo cual estas dos piezas sirven para conectar la espira a un circuito externo, a fin de inducir un voltaje.
 
 
 ## 4.	VIDEO
