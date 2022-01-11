@@ -232,12 +232,12 @@ https://youtu.be/2iV6VzArCmY
 	
 ## 5.	CONCLUSIONES
         
-1. Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora.
+   1. Cuando un conductor se mueve adentro de un campo magnético, o cuando un campo magnético se mueve con respecto a un conductor, se induce un voltaje entre los extremos del conductor. Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande es el voltaje inducido
 
-2. El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff. El método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff. El método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff. 
+   2. El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff. El método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff. El método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff. 
 
 
-3. Cuando hay corriente a través de un conductor, se produce un campo electromagnético alrededor del conductor. Se puede utilizar la regla de la mano derecha para establecer la dirección de las líneas de fuerza electromagnéticas presentes alrededor de un conductor. 
+   3. Cuando hay corriente a través de un conductor, se produce un campo electromagnético alrededor del conductor. Se puede utilizar la regla de la mano derecha para establecer la dirección de las líneas de fuerza electromagnéticas presentes alrededor de un conductor. 
 
 
 ## 6.	BIBLIOGRAFÍA
