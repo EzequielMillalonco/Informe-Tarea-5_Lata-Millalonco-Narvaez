@@ -173,11 +173,11 @@ Aplicar ecuaciones simultáneas en el análisis de circuitos y explicar los prin
 
 	**(a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?**
 
-	Fuerza electromagnética (fuerza de atracción de los campos magnéticos).
+		Fuerza electromagnética (fuerza de atracción de los campos magnéticos).
 
 	**(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?**
 
-	La fuerza elástica (fuerza del resorte).
+		La fuerza elástica (fuerza del resorte).
 	
 	
 	10–4 Histéresis magnética 
