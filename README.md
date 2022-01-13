@@ -60,20 +60,99 @@ Aplicar ecuaciones simultáneas en el análisis de circuitos y explicar los prin
 
 	10–1 El campo magnético 
 	
-	
+![Diagrama en blanco (5)](https://user-images.githubusercontent.com/93834732/149247318-0ee25127-fd54-4c56-b713-b3ac5bdf6196.png)
+
 	10–2 Electromagnetismo 
 	
-	
+![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93834732/149247333-404a0af9-67c9-4a20-9d18-c0535d7d9872.png)
+
 	10–3 Dispositivos electromagnéticos 
 	
-	
+*El solenoide*
+
+Es una bobina cilíndrica de hilo arrollado alrededor de una forma hueca no magnética. Un núcleo de hierro estacionario está fijo en el extremo de la flecha y un núcleo de hierro deslizante (émbolo) está unido al núcleo estacionario por medio de un resorte.
+
+![Selenoide](https://user-images.githubusercontent.com/93834732/149241394-b16eaa18-ada5-4f07-8ae9-914d5c87546e.GIF)
+
+*La válvula solenoide*
+
+Son ampliamente utilizadas para controlar el flujo de aire, agua, vapor, aceites, refrigerantes, y otros fluidos.
+
+![Valvula](https://user-images.githubusercontent.com/93834732/149244834-9e6c0533-b451-4477-95fe-f07dc281ac80.GIF)
+
+*El relevador*
+
+Difiere del solenoide en que la acción electromagnética se utiliza para abrir o cerrar contactos eléctricos y no para producir movimiento mecánico.
+
+![Revelador](https://user-images.githubusercontent.com/93834732/149244971-0692e7ec-3048-4559-9006-58a9948f551b.GIF)
+
+*El altavoz*
+
+Es un dispositivo electromagnético que convierte señales eléctricas en ondas sonoras
+
+![altavoz](https://user-images.githubusercontent.com/93834732/149246403-5b100c1c-e7d4-498d-a0e7-24fbceb0a60e.GIF)
+
+*Movimiento de medidor*
+
+El movimiento de medidor d’Arsonval se basa en que la aguja se deflexiona en proporción a la cantidad de corriente que pasa a través de la bobina
+
+![Medidor](https://user-images.githubusercontent.com/93834732/149246554-de76b575-f7eb-4acf-b622-33b1d810c102.GIF)
+
+*El disco magneto-óptico*
+
+El disco magneto-óptico utiliza un electroimán y rayos láser para leer y escribir (grabar) datos en una superficie magnética.
+
+![Disco](https://user-images.githubusercontent.com/93834732/149247262-2d91479a-5ae8-4866-a0c7-8888c6f2db9c.GIF)
+
+
 	10–4 Histéresis magnética 
 	
-	
+Cuando se aplica una fuerza magnetizante a un material, la densidad de flujo del material cambia
+en cierto modo.
+
+Formula de la intensidad de campo magnetico
+
+![1](https://user-images.githubusercontent.com/93834732/149248689-867cc5e8-fdd6-4045-953e-a0ea1023a403.GIF)
+
+*La curva de histéresis y retentividad*
+
+La histéresis es una característica de un material magnético por la cual un cambio de magnetización retrasa la aplicación de la intensidad de campo magnético
+
+La siguiente grafica muestra lo que sucede cuando se varia la corriente en un campo magnetico.
+
+![2](https://user-images.githubusercontent.com/93834732/149248872-9fe8942d-5551-475d-84e7-ac2e7bf29dab.GIF)
+
 	10–5 Inducción electromagnética 
 	
+![Diagrama en blanco (7)](https://user-images.githubusercontent.com/93834732/149249945-e4380c36-3071-4402-9dfa-6705f1ac214b.png)
+	
+Si el conductor mostrado se mueve primero de un modo y luego de otro en el campo magnético, se observará una inversión de la polaridad del voltaje inducido.	
+
+![3](https://user-images.githubusercontent.com/93834732/149249366-86878a47-0b25-45a4-9506-cc7ed816742e.GIF)
+
+*Ley de Faradai*
+
+El voltaje inducido a través de una bobina de alambre es igual al número de vueltas que haya en la bobina multiplicado por la velocidad de cambio del flujo magnético.
+
+![4](https://user-images.githubusercontent.com/93834732/149249682-3fee4fb0-1640-4501-858a-7c6aa0031236.GIF)
+
+*Ley de Lenz*
+
+La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. Se usa para el calculo de la direccion del voltaje o la polaridad inducida.
 	
 	10–6 Aplicaciones de la inducción electromagnética 
+	
+*Sensor de posición de un cigüeñal automotriz*
+
+Una aplicación automotriz de la inducción electromagnética implica un tipo de sensor de motor que detecta la posición del cigüeñal. Esto ayuda en el ahorro de combustible mejorando la gestion del mismo. 
+
+![5](https://user-images.githubusercontent.com/93834732/149250374-4c7ab73f-1981-4498-a6d0-a9ca9ca38e19.GIF)
+
+*Generador de CD*
+
+La figura 10-35 muestra un generador de cd simplificado compuesto de una sola espira de alambre en un campo magnético permanente. 
+
+![6](https://user-images.githubusercontent.com/93834732/149250636-4b6c5224-7f49-4509-9c1c-a1ca8cf7a9d2.GIF)
 
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -153,14 +232,58 @@ Aplicar ecuaciones simultáneas en el análisis de circuitos y explicar los prin
 ![image](https://user-images.githubusercontent.com/93396250/148895956-1a06dfac-e462-43de-b4e4-4b59d5394a83.png)
 
 
-	9–4 Método del voltaje en nodos 
+	9–4 Método del voltaje en nodos
+	
+**27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.**
+	
+![13](https://user-images.githubusercontent.com/93834732/149256002-4e6d0ebf-3abe-4601-97f4-0ef837488a96.GIF)
+
+![14](https://user-images.githubusercontent.com/93834732/149256723-b541bf76-028b-4d17-bdee-ee2b9446ef0e.GIF)
+![15](https://user-images.githubusercontent.com/93834732/149256776-8854007c-f4bb-4e06-b0d5-28933e84bbed.GIF)
+![16](https://user-images.githubusercontent.com/93834732/149257066-d2f3384e-4e3f-4571-b78b-43af67bbc9fd.GIF)
+
+**29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33**
+
+![7](https://user-images.githubusercontent.com/93834732/149251463-043f714d-3788-40d5-a866-116b888098dd.GIF)
+
+![17](https://user-images.githubusercontent.com/93834732/149257119-90dfe5d7-4f4a-4f65-a738-3d8d7035615a.GIF)
+![18](https://user-images.githubusercontent.com/93834732/149257149-d723b5a3-49a6-46c5-a02a-a59d626cbc3a.GIF)
+![19](https://user-images.githubusercontent.com/93834732/149257185-72e5f51e-6682-47b2-9c8f-b269dea95026.GIF)
+![20](https://user-images.githubusercontent.com/93834732/149257307-e9191030-9ce4-48e0-977e-20e05f0e69e0.GIF)
+
+**31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35**
+
+![8](https://user-images.githubusercontent.com/93834732/149251533-21b8b7f6-d292-401b-963a-c4b54fadc4c4.GIF)
+
+![21](https://user-images.githubusercontent.com/93834732/149257362-c94b3788-1205-456d-8a98-c08dfb9eab3e.GIF)
+![22](https://user-images.githubusercontent.com/93834732/149257407-1ed86932-f2ce-46eb-9e07-d42525e5dd43.GIF)
+![24](https://user-images.githubusercontent.com/93834732/149257434-b1939976-28a9-4464-81c7-7d795606840d.GIF)
 	
 ### CAPÍTULO 10:
 
 	10–1 El campo magnético 
+
+**1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?**
+
+La densidad de flujo disminuye debido a que es inversamente proporcional al area de sección transversal.
+
+**3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500*10^-6 T y el el área de sección transversal mide 150 cm2?**
+
+![9](https://user-images.githubusercontent.com/93834732/149252541-c7e277f6-a3af-4f98-b3b6-c9567b5376d1.GIF)
+
+**5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 microT. Exprese esta densidad deflujo en gauss.**
+6. 
+![10](https://user-images.githubusercontent.com/93834732/149252985-e7f2d9ba-0e90-4d9b-ae66-c9a22b36ea61.GIF)
 	
+	10–2 Electromagnetismo
 	
-	10–2 Electromagnetismo 
+**7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750*10^-6 Wb/At·m?**
+
+![11](https://user-images.githubusercontent.com/93834732/149253830-1f986b4f-0b07-44da-9845-c111ff423bb3.GIF)
+
+**9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?**
+
+![12](https://user-images.githubusercontent.com/93834732/149254088-c694b8b7-5e73-4372-bd0f-40ed534e4e04.GIF)
 	
 	
 	10–3 Dispositivos electromagnéticos 
@@ -219,6 +342,8 @@ El conmutador roza con las escobillas que estan conectadas a los extremos de la 
 Por ende dividimos los 21600 grados para 180 grados, ya que sabemos que el generador de cd alcanza su voltaje pico (voltaje inducido máximo), cada vez que el conmutador gira 180 grados comenzando desde su posición original, que es en paralelo con las líneas de flujo del campo magnético.
 
 21600 (grados/s)/180 grados = 120 veces/s 
+
+
 
 
 ## 4.	VIDEO
