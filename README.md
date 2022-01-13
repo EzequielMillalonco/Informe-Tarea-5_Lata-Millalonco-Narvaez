@@ -350,10 +350,10 @@ Por ende dividimos los 21600 grados para 180 grados, ya que sabemos que el gener
 	
 	Link del video ¨Informe tarea 5¨, en dondé se explican ejercicios vistos en la Tarea #5 con respecto al capítulo 9 y 10 :
 	
-https://youtu.be/2iV6VzArCmY
+https://youtu.be/7u44CEmkvnk
 	
 	
-[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
+[![Presentación Tarea 1](https://img.youtube.com/vi/7u44CEmkvnk/0.jpg)](https://www.youtube.com/watch?v=7u44CEmkvnk)
 	
 ## 5.	CONCLUSIONES
         
